@@ -1,0 +1,13 @@
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\enumeration\SupportedBrowsers.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\pageobject\pages\HomePage.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\properties\holder\PropertyHolder.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\properties\converters\SupportedBrowserConverter.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\invoker\implemenation\LocalFirefoxInvoker.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\invoker\implemenation\LocalChromeInvoker.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\pageobject\modules\DeliverToModule.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\factory\WebDriverFactory.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\invoker\implemenation\RemoteChromeInvoker.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\pageobject\BasePage.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\invoker\WebDriverInvoker.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\pageobject\pages\ItemPage.java
+C:\Users\Claudiu_Bodnar\IdeaProjects\TA_HometaskBDD\src\main\java\org.example\pageobject\pages\CategoryPage.java

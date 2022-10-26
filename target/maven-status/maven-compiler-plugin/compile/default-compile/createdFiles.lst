@@ -1,0 +1,13 @@
+org\example\invoker\implemenation\RemoteChromeInvoker.class
+org\example\pageobject\pages\HomePage.class
+org\example\properties\holder\PropertyHolder.class
+org\example\pageobject\pages\ItemPage.class
+org\example\factory\WebDriverFactory.class
+org\example\invoker\implemenation\LocalFirefoxInvoker.class
+org\example\properties\converters\SupportedBrowserConverter.class
+org\example\pageobject\BasePage.class
+org\example\invoker\implemenation\LocalChromeInvoker.class
+org\example\enumeration\SupportedBrowsers.class
+org\example\pageobject\modules\DeliverToModule.class
+org\example\invoker\WebDriverInvoker.class
+org\example\pageobject\pages\CategoryPage.class
